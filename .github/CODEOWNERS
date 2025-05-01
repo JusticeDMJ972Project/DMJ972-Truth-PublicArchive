@@ -1,0 +1,12 @@
+# Responsable principal du dépôt
+* @JusticeDMJ972Project
+
+# Pour tous les fichiers HTML
+/*.html @JusticeDMJ972Project
+
+# Pour la documentation
+/docs/ @JusticeDMJ972Project
+
+# Pour les images (si le dossier existe)
+images/ @JusticeDMJ972Project
+
